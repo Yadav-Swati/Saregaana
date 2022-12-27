@@ -6,6 +6,7 @@ Your one-stop jukebox to listen to your favourite bollywood hits from the past! 
 Great for the eldery who have trouble navigating Youtube, all songs can be accessed with the click of a single button!
 
 Features : 
+
 5 unique music theme
 50+ Songs
 Fully functional audio control
@@ -14,6 +15,7 @@ Slick UI
 High quality audio
 
 Tools 🛠️ :
+
 HTML
 CSS
 JavaScript
