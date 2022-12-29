@@ -12,7 +12,9 @@ let volume_icon = document.querySelector('#volume_icon');
 let pause_gif = document.querySelector('#pause-gif');
 let pause_text = document.querySelector('#pause-text');
 
+
 //create a audio Element
+
 let track = document.createElement('audio');
 let global_music_index = 0;
 
@@ -46,8 +48,8 @@ let all_videos = [
     {
         name: "sad",
         path: "videos/sad.mp4",
-        music: ["/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/aaja piya tohe pyar du_Baharon Ke Sapne1967_AshaParekh& Rajesh Khanna_Lata_Majrooh_R D Burman _a tri.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Guide 1965 Din dhal jaye hai raat na.mp3",
+        music: ["/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Guide 1965 Din dhal jaye hai raat na.mp3",
+                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/aaja piya tohe pyar du_Baharon Ke Sapne1967_AshaParekh& Rajesh Khanna_Lata_Majrooh_R D Burman _a tri.mp3",                
                 "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Jis Gali Mein Tera Ghar 4K Song _ Mukesh _ Rajesh Khanna _ Kati Patang _Classic Bollywood Video Song.mp3",
                 "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Kya Hua Tera Wada in HD.mp3",
                 "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Lata Mangeshkar - Kahin Door Jab Din Dhal Jaye (Official Audio).mp3",
@@ -96,11 +98,11 @@ let all_videos = [
     {
         name: "sufi",
         path: "videos/sufi.mp4",
-        music: ["/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Afreen Afreen _ Sangam (1996) _ Hindi Video Song _ Nusrat Fateh Ali Khan.mp3",
+        music: ["/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Mann Ki Lagan.mp3",
+                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Afreen Afreen _ Sangam (1996) _ Hindi Video Song _ Nusrat Fateh Ali Khan.mp3",
                 "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Akhiyan (Full Audio Song) _ Rahat Fateh Ali Khan _ Punjabi Song Collection _ Speed Records.mp3",
                 "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Charkha - Rahat Fateh Ali Khan.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Ishq Anokha -  Kailash Kher _ ft. Nawazuddin Siddiqui & Sobhita Dhulipala.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Mann Ki Lagan.mp3",
+                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Ishq Anokha -  Kailash Kher _ ft. Nawazuddin Siddiqui & Sobhita Dhulipala.mp3",                
                 "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/O Jogi Music Video ft Mantra _ Kailash Kher _ Kailasa Ishq Anokha.mp3",
                 "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Sanu Ek Pal Chain Video _ Raid _ Ajay Devgn _ Ileana D'Cruz_ Tanishk B Rahat Fateh Ali Khan Manoj M.mp3",
                 "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Tere Ishq Nachaya - Official Music Video _ Samarjeet Randhava.mp3",
@@ -153,7 +155,7 @@ function load_theme(index_no, music_index) {
     global_music_index = music_index;
     pause_gif.style.display = 'none';
     pause_text.style.display = 'none';
-    playing_song = true;
+    playing_song = false;
     load_track(index_no, music_index);
     track_video.src = all_videos[index_no].path;
     theme_title.innerHTML = all_videos[index_no].name;
