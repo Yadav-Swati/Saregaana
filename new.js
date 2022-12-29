@@ -25,12 +25,19 @@ let all_videos = [
     {
         name: "romance",
         path: "videos/romance.mov",
-        music: ["/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Barsaat - Bheegi Bheegi Raaton Mein_Adnan Sami_Kabhi To Nazar Milao.mp3",
-               "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Chura Liya Hai Tumne Jo Dil Ko (Eng Sub) [Full Video Song] (HD) With Lyrics - Yaadon Ki Baaraat.mp3",
-               "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Ek Ladki ko dekha - Full Video HD _ 1942 A love story _ Anil Kapoor _ Manisha Koirala (1).mp3",
-               "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Humein Tumse Pyar Kitna _ Sanam.mp3",
-               "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Kora Kagaz Tha Yeh Man Mera 4K Video Song _ Lata Mangeshkar_ Kishore Kumar _ Aradhana_ Rajesh Khanna.mp3",
-               "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Likhe Jo Khat Tujhe Woh Teri Yaad Mein  [HD] 1080P.mp3",
+        music: ["./music/romance/music_romance_Barsaat - Bheegi Bheegi Raaton Mein_Adnan Sami_Kabhi To Nazar Milao.mp3",
+                "./music/romance/music_romance_Chura Liya Hai Tumne Jo Dil Ko (Eng Sub) [Full Video Song] (HD) With Lyrics - Yaadon Ki Baaraat.mp3",
+                "./music/romance/music_romance_Ek Ladki ko dekha - Full Video HD _ 1942 A love story _ Anil Kapoor _ Manisha Koirala (1).mp3",
+                "./music/romance/music_romance_Humein Tumse Pyar Kitna _ Sanam.mp3",
+                "./music/romance/music_romance_Kora Kagaz Tha Yeh Man Mera 4K Video Song _ Lata Mangeshkar_ Kishore Kumar _ Aradhana_ Rajesh Khanna.mp3",
+                "./music/romance/music_romance_Likhe Jo Khat Tujhe Woh Teri Yaad Mein  [HD] 1080P.mp3",
+		
+// 		"/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Barsaat - Bheegi Bheegi Raaton Mein_Adnan Sami_Kabhi To Nazar Milao.mp3",
+//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Chura Liya Hai Tumne Jo Dil Ko (Eng Sub) [Full Video Song] (HD) With Lyrics - Yaadon Ki Baaraat.mp3",
+//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Ek Ladki ko dekha - Full Video HD _ 1942 A love story _ Anil Kapoor _ Manisha Koirala (1).mp3",
+//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Humein Tumse Pyar Kitna _ Sanam.mp3",
+//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Kora Kagaz Tha Yeh Man Mera 4K Video Song _ Lata Mangeshkar_ Kishore Kumar _ Aradhana_ Rajesh Khanna.mp3",
+//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Likhe Jo Khat Tujhe Woh Teri Yaad Mein  [HD] 1080P.mp3",
 
         
             // // "music/romance/Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Romantic Song.mp3", 
