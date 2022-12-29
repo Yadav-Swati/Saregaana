@@ -6,6 +6,10 @@ Your one-stop jukebox to listen to your favourite bollywood hits from the past! 
 
 Great for the eldery who have trouble navigating Youtube, all songs can be accessed with the click of a single button!
 
+<img width="1436" alt="Saregaana paused" src="https://user-images.githubusercontent.com/98321872/209902826-5666aefd-43e0-4d74-9ce0-c5ae9f962ae0.png">
+<img width="1430" alt="Saregaana play" src="https://user-images.githubusercontent.com/98321872/209902829-1eb8410d-2891-4fe5-a216-bfc2ca5d1313.png">
+
+
 Features : 
 
 1. 5 unique music theme
