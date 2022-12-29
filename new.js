@@ -31,13 +31,13 @@ let all_videos = [
                 "./music/romance/music_romance_Humein Tumse Pyar Kitna _ Sanam.mp3",
                 "./music/romance/music_romance_Kora Kagaz Tha Yeh Man Mera 4K Video Song _ Lata Mangeshkar_ Kishore Kumar _ Aradhana_ Rajesh Khanna.mp3",
                 "./music/romance/music_romance_Likhe Jo Khat Tujhe Woh Teri Yaad Mein  [HD] 1080P.mp3",
-		
-// 		"/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Barsaat - Bheegi Bheegi Raaton Mein_Adnan Sami_Kabhi To Nazar Milao.mp3",
-//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Chura Liya Hai Tumne Jo Dil Ko (Eng Sub) [Full Video Song] (HD) With Lyrics - Yaadon Ki Baaraat.mp3",
-//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Ek Ladki ko dekha - Full Video HD _ 1942 A love story _ Anil Kapoor _ Manisha Koirala (1).mp3",
-//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Humein Tumse Pyar Kitna _ Sanam.mp3",
-//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Kora Kagaz Tha Yeh Man Mera 4K Video Song _ Lata Mangeshkar_ Kishore Kumar _ Aradhana_ Rajesh Khanna.mp3",
-//                "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Likhe Jo Khat Tujhe Woh Teri Yaad Mein  [HD] 1080P.mp3",
+
+            //    "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Barsaat - Bheegi Bheegi Raaton Mein_Adnan Sami_Kabhi To Nazar Milao.mp3",
+            //    "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Chura Liya Hai Tumne Jo Dil Ko (Eng Sub) [Full Video Song] (HD) With Lyrics - Yaadon Ki Baaraat.mp3",
+            //    "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Ek Ladki ko dekha - Full Video HD _ 1942 A love story _ Anil Kapoor _ Manisha Koirala (1).mp3",
+            //    "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Humein Tumse Pyar Kitna _ Sanam.mp3",
+            //    "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Kora Kagaz Tha Yeh Man Mera 4K Video Song _ Lata Mangeshkar_ Kishore Kumar _ Aradhana_ Rajesh Khanna.mp3",
+            //    "/Users/swatiyadav/Desktop/HTML/new/music /romance/music/romance/Likhe Jo Khat Tujhe Woh Teri Yaad Mein  [HD] 1080P.mp3",
 
         
             // // "music/romance/Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Romantic Song.mp3", 
@@ -49,21 +49,34 @@ let all_videos = [
             //     "music/romance/Barsaat - Bheegi Bheegi Raaton Mein_Adnan Sami_Kabhi To Nazar Milao.mp3",
             //     "music/romance/Kora Kagaz Tha Yeh Man Mera 4K Video Song _ Lata Mangeshkar_ Kishore Kumar _ Aradhana_ Rajesh Khanna.mp3",
             //     // "music/romance/Aap Ki Ankhon Mein Kuch - Kishore Kumar, Lata Mangeshkar, Ghar Romantic Song.mp3",
-            //     "music/romance/Likhe Jo Khat Tujhe Woh Teri Yaad Mein  [HD] 1080P.mp3"
+            //     "music/romance/Likhe Jo Khat Tujhe Woh Teri Yaad Mein  [HD] 1080P.mp3",
+            
             ]
     },
     {
         name: "sad",
         path: "videos/sad.mp4",
-        music: ["/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Guide 1965 Din dhal jaye hai raat na.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/aaja piya tohe pyar du_Baharon Ke Sapne1967_AshaParekh& Rajesh Khanna_Lata_Majrooh_R D Burman _a tri.mp3",                
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Jis Gali Mein Tera Ghar 4K Song _ Mukesh _ Rajesh Khanna _ Kati Patang _Classic Bollywood Video Song.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Kya Hua Tera Wada in HD.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Lata Mangeshkar - Kahin Door Jab Din Dhal Jaye (Official Audio).mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Lagi Aaj Sawan Ki Phir Wo Jhadi Hai.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Meri bheegi bheegi si ( Anamika) Kishor Kumar Full hd video Song 2021 kishorkumar.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/yara sili sili.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Yeh Jo Mohabbat Hai 4K Video Song _ Kati Patang Song.mp3",
+        music: ["./music/sad/music_sad_Guide 1965 Din dhal jaye hai raat na.mp3",
+        "./music/sad/music_sad_aaja piya tohe pyar du_Baharon Ke Sapne1967_AshaParekh& Rajesh Khanna_Lata_Majrooh_R D Burman _a tri.mp3",
+        "./music/sad/music_sad_Jis Gali Mein Tera Ghar 4K Song _ Mukesh _ Rajesh Khanna _ Kati Patang _Classic Bollywood Video Song.mp3",
+        "./music/sad/music_sad_Kya Hua Tera Wada in HD.mp3",
+        "./music/sad/music_sad_Lata Mangeshkar - Kahin Door Jab Din Dhal Jaye (Official Audio).mp3",
+        "./music/sad/music_sad_Lagi Aaj Sawan Ki Phir Wo Jhadi Hai.mp3",
+        "./music/sad/music_sad_Meri bheegi bheegi si ( Anamika) Kishor Kumar Full hd video Song 2021 kishorkumar.mp3",
+        "./music/sad/music_sad_yara sili sili.mp3",
+        "./music/sad/music_sad_Yeh Jo Mohabbat Hai 4K Video Song _ Kati Patang Song.mp3",
+            
+            
+            
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Guide 1965 Din dhal jaye hai raat na.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/aaja piya tohe pyar du_Baharon Ke Sapne1967_AshaParekh& Rajesh Khanna_Lata_Majrooh_R D Burman _a tri.mp3",                
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Jis Gali Mein Tera Ghar 4K Song _ Mukesh _ Rajesh Khanna _ Kati Patang _Classic Bollywood Video Song.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Kya Hua Tera Wada in HD.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Lata Mangeshkar - Kahin Door Jab Din Dhal Jaye (Official Audio).mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Lagi Aaj Sawan Ki Phir Wo Jhadi Hai.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Meri bheegi bheegi si ( Anamika) Kishor Kumar Full hd video Song 2021 kishorkumar.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/yara sili sili.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sad/music/sad/Yeh Jo Mohabbat Hai 4K Video Song _ Kati Patang Song.mp3",
 
 
             // "music/sad/Lagi Aaj Sawan Ki Phir Wo Jhadi Hai.mp3",
@@ -82,12 +95,21 @@ let all_videos = [
     {
         name: "happy",
         path: "videos/happy.mp4",
-        music: ["/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Aanewala Pal Janewala Hai _ Golmaal _ Hindi Film Song _ Kishore Kumar (1).mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Apni To Jaise Taise Jhankar HD ,Laawaris 1981, frm Saadat DVRCpWofaBA.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Arey Deewano Mujhe Pehchano Kishore Kumar Amitabh Bachchan Don 1978  Remastered Audio 1080P.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Chala Jata Hoon _ Sanam.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Didi Tera Devar Deewana - Hum Aapke Hain Koun - Lata Mangeshkar & S. P. Balasubramaniam's Hit Song.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Disco Dancer - I Am A Disco Dancer Zindagi Mera Gaana - Vijay Benedict.mp3",
+        music: [ "./music/happy/music_happy_Aanewala Pal Janewala Hai _ Golmaal _ Hindi Film Song _ Kishore Kumar (1).mp3",
+                 "./music/happy/music_happy_Apni To Jaise Taise Jhankar HD ,Laawaris 1981, frm Saadat DVRCpWofaBA.mp3",
+                 "./music/happy/music_happy_Arey Deewano Mujhe Pehchano Kishore Kumar Amitabh Bachchan Don 1978  Remastered Audio 1080P.mp3",
+                 "./music/happy/music_happy_Chala Jata Hoon _ Sanam.mp3",
+                 "./music/happy/music_happy_Didi Tera Devar Deewana - Hum Aapke Hain Koun - Lata Mangeshkar & S. P. Balasubramaniam's Hit Song.mp3",
+                 "./music/happy/music_happy_Disco Dancer - I Am A Disco Dancer Zindagi Mera Gaana - Vijay Benedict.mp3",
+            
+            
+            
+                // "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Aanewala Pal Janewala Hai _ Golmaal _ Hindi Film Song _ Kishore Kumar (1).mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Apni To Jaise Taise Jhankar HD ,Laawaris 1981, frm Saadat DVRCpWofaBA.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Arey Deewano Mujhe Pehchano Kishore Kumar Amitabh Bachchan Don 1978  Remastered Audio 1080P.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Chala Jata Hoon _ Sanam.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Didi Tera Devar Deewana - Hum Aapke Hain Koun - Lata Mangeshkar & S. P. Balasubramaniam's Hit Song.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /happy/music/happy/Disco Dancer - I Am A Disco Dancer Zindagi Mera Gaana - Vijay Benedict.mp3",
 
 
             // "music/happy/Arey Deewano Mujhe Pehchano Kishore Kumar Amitabh Bachchan Don 1978  Remastered Audio 1080P.mp3",
@@ -105,14 +127,23 @@ let all_videos = [
     {
         name: "sufi",
         path: "videos/sufi.mp4",
-        music: ["/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Mann Ki Lagan.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Afreen Afreen _ Sangam (1996) _ Hindi Video Song _ Nusrat Fateh Ali Khan.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Akhiyan (Full Audio Song) _ Rahat Fateh Ali Khan _ Punjabi Song Collection _ Speed Records.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Charkha - Rahat Fateh Ali Khan.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Ishq Anokha -  Kailash Kher _ ft. Nawazuddin Siddiqui & Sobhita Dhulipala.mp3",                
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/O Jogi Music Video ft Mantra _ Kailash Kher _ Kailasa Ishq Anokha.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Sanu Ek Pal Chain Video _ Raid _ Ajay Devgn _ Ileana D'Cruz_ Tanishk B Rahat Fateh Ali Khan Manoj M.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Tere Ishq Nachaya - Official Music Video _ Samarjeet Randhava.mp3",
+        music: ["./music/sufi/music_sufi_Mann Ki Lagan.mp3",
+                "./music/sufi/music_sufi_Afreen Afreen _ Sangam (1996) _ Hindi Video Song _ Nusrat Fateh Ali Khan.mp3",
+                "./music/sufi/music_sufi_Akhiyan (Full Audio Song) _ Rahat Fateh Ali Khan _ Punjabi Song Collection _ Speed Records.mp3",
+                "./music/sufi/music_sufi_Charkha - Rahat Fateh Ali Khan.mp3",
+                "./music/sufi/music_sufi_Ishq Anokha -  Kailash Kher _ ft. Nawazuddin Siddiqui & Sobhita Dhulipala.mp3",
+                "./music/sufi/music_sufi_O Jogi Music Video ft Mantra _ Kailash Kher _ Kailasa Ishq Anokha.mp",
+                "./music/sufi/music_sufi_Sanu Ek Pal Chain Video _ Raid _ Ajay Devgn _ Ileana D'Cruz_ Tanishk B Rahat Fateh Ali Khan Manoj M.mp3",
+                "./music/sufi/music_sufi_Tere Ishq Nachaya - Official Music Video _ Samarjeet Randhava.mp3",
+            
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Mann Ki Lagan.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Afreen Afreen _ Sangam (1996) _ Hindi Video Song _ Nusrat Fateh Ali Khan.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Akhiyan (Full Audio Song) _ Rahat Fateh Ali Khan _ Punjabi Song Collection _ Speed Records.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Charkha - Rahat Fateh Ali Khan.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Ishq Anokha -  Kailash Kher _ ft. Nawazuddin Siddiqui & Sobhita Dhulipala.mp3",                
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/O Jogi Music Video ft Mantra _ Kailash Kher _ Kailasa Ishq Anokha.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Sanu Ek Pal Chain Video _ Raid _ Ajay Devgn _ Ileana D'Cruz_ Tanishk B Rahat Fateh Ali Khan Manoj M.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /sufi/music/sufi/Tere Ishq Nachaya - Official Music Video _ Samarjeet Randhava.mp3",
 
 
             // "music/sufi/Mann Ki Lagan.mp3",
@@ -130,13 +161,24 @@ let all_videos = [
     {
         name: "ghazal",
         path: "videos/ghazal.mp4",
-        music: ["/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Chithi Na Koi Sandesh.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Gham Ka Khazana Tera Bhi Hai Mera Bhi Hai Lata Mangeshkar and Jagjit Singh.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Koi Yeh Kaise Bataye _ Ghazal Song _ Jagjit Singh.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Pyar Mujh Se Jo Kiya Tumne - Deepti Naval - Farooque Sheikh - Saath Saath - Jagjit Singh - Ghazals.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Tum Itna Jo Muskura Rahe Ho _ Ghazal Song _ Arth _ Jagjit Singh.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Tum Ko Dekha Toh Ye Khayal - Jagjit Singh Ghazals (HD)- Deepti Naval - Farooq sheikh - Saath Saath.mp3",
-                "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Yeh Tera Ghar Yeh Mera - Deepti Naval - Farooque Sheikh - Saath Saath - Jagjit Singh - Chitra Singh.mp3",
+        music: ["./music/ghazal/music_ghazal_Chithi Na Koi Sandesh.mp3",
+                "./music/ghazal/music_ghazal_Gham Ka Khazana Tera Bhi Hai Mera Bhi Hai Lata Mangeshkar and Jagjit Singh.mp3",
+                "./music/ghazal/music_ghazal_Koi Yeh Kaise Bataye _ Ghazal Song _ Jagjit Singh.mp3",
+                "./music/ghazal/music_ghazal_Pyar Mujh Se Jo Kiya Tumne - Deepti Naval - Farooque Sheikh - Saath Saath - Jagjit Singh - Ghazals.mp3",
+                "./music/ghazal/music_ghazal_Tum Itna Jo Muskura Rahe Ho _ Ghazal Song _ Arth _ Jagjit Singh.mp3",
+                "./music/ghazal/music_ghazal_Tum Ko Dekha Toh Ye Khayal - Jagjit Singh Ghazals (HD)- Deepti Naval - Farooq sheikh - Saath Saath.mp3",
+                "./music/ghazal/music_ghazal_Yeh Tera Ghar Yeh Mera - Deepti Naval - Farooque Sheikh - Saath Saath - Jagjit Singh - Chitra Singh.mp3",   
+        
+
+            
+                
+                // "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Chithi Na Koi Sandesh.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Gham Ka Khazana Tera Bhi Hai Mera Bhi Hai Lata Mangeshkar and Jagjit Singh.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Koi Yeh Kaise Bataye _ Ghazal Song _ Jagjit Singh.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Pyar Mujh Se Jo Kiya Tumne - Deepti Naval - Farooque Sheikh - Saath Saath - Jagjit Singh - Ghazals.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Tum Itna Jo Muskura Rahe Ho _ Ghazal Song _ Arth _ Jagjit Singh.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Tum Ko Dekha Toh Ye Khayal - Jagjit Singh Ghazals (HD)- Deepti Naval - Farooq sheikh - Saath Saath.mp3",
+                // "/Users/swatiyadav/Desktop/HTML/new/music /ghazal/music/ghazal/Yeh Tera Ghar Yeh Mera - Deepti Naval - Farooque Sheikh - Saath Saath - Jagjit Singh - Chitra Singh.mp3",
 
                 
             // "music/ghazal/Tum Itna Jo Muskura Rahe Ho _ Ghazal Song _ Arth _ Jagjit Singh.mp3",
