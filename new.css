@@ -211,7 +211,7 @@ input[type="range"]::-webkit-slider-thumb{
 
 .background .content .current_theme {
     position: relative;
-    top: 85vh;
+    top: 25vh;
     left: 80vw;oh
     text-transform: uppercase;
     font-size: 3.8rem;
