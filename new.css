@@ -81,7 +81,7 @@ body
 
 .background .content .logo {
     position: absolute;
-    font-size: 7.5rem;
+    font-size: 7.3rem;
     top: 0.5rem;
     left: 1.4rem;
     /* display: inline; */
@@ -95,7 +95,7 @@ body
     position: absolute;
     display: inline;
     top: 1.5rem;
-    left: 6.3rem;
+    left: 8.3rem;
 }
 
 .background .content .themes {
