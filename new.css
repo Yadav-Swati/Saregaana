@@ -203,7 +203,7 @@ input[type="range"]::-webkit-slider-thumb {
 input[type="range"]::-webkit-slider-thumb{
 	-webkit-appearance: none;
 	height: 0.938rem;
-	width: 3.938rem;
+	width: 7.938rem;
 	background: #FFF;
 	border-radius: 50%;
 	cursor: pointer;
