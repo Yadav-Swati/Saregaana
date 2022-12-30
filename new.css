@@ -83,7 +83,7 @@ body
     position: absolute;
     font-size: 7.5rem;
     top: 0.5rem;
-    left: 1rem;
+    left: 1.4rem;
     /* display: inline; */
 }
 
@@ -94,8 +94,8 @@ body
     letter-spacing: 0.5rem;
     position: absolute;
     display: inline;
-    top: 1.2rem;
-    left: 5.3rem;
+    top: 1.5rem;
+    left: 6.3rem;
 }
 
 .background .content .themes {
