@@ -128,7 +128,7 @@ body
 
 .background .content .controllers {
     top: 68vh;
-    left: 37vw;
+    left: 57vw;
     width: 100%;
     display: flex;
     align-items: center;
@@ -140,7 +140,7 @@ body
     margin: 0rem 0.2rem;
     border: none;
     height: 3.125rem;
-    width: 5.125rem;
+    width: 3.125rem;
     border-radius: 50%;	
     display: flex;
     align-items: center;
