@@ -194,7 +194,7 @@ body
 
 input[type="range"]::-webkit-slider-thumb {
 	-webkit-appearance: none;
-	width: 40%;
+	width: 20%;
 	outline: none;
 	height: 0.125rem;
 	margin: 0 0.938rem;
@@ -203,7 +203,7 @@ input[type="range"]::-webkit-slider-thumb {
 input[type="range"]::-webkit-slider-thumb{
 	-webkit-appearance: none;
 	height: 0.938rem;
-	width: 7.938rem;
+	width: 0.938rem;
 	background: #FFF;
 	border-radius: 50%;
 	cursor: pointer;
