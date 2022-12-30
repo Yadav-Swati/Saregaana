@@ -112,7 +112,7 @@ body
 .background .content .github .github-logo{
     height: 3.5rem;
     top: 95vh;
-    margin-left: 1rem;
+    margin-left: 2rem;
     position: absolute;
     filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(222deg) brightness(97%) contrast(86%);
 }
@@ -122,8 +122,8 @@ body
     font-size: 2.0rem;
     color: #fff;
     position: absolute;
-    top: 94.5vh;
-    left: 5rem;
+    top: 94.0vh;
+    left: 6rem;
 }
 
 .background .content .controllers {
