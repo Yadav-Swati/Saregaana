@@ -81,7 +81,7 @@ body
 
 .background .content .logo {
     position: absolute;
-    font-size: 5.5rem;
+    font-size: 7.5rem;
     top: 0.5rem;
     left: 1rem;
     /* display: inline; */
@@ -90,7 +90,7 @@ body
 .background .content h1 {
     font-family: 'Teko', sans-serif;
     font-weight: 100;
-    font-size: 6.7rem;
+    font-size: 5.7rem;
     letter-spacing: 0.5rem;
     position: absolute;
     display: inline;
