@@ -159,7 +159,7 @@ body
 
 .background .content .controllers i:before{
 	color: #fff;
-	font-size: 3.25rem;
+	font-size: 3.0rem;
 }
 
 .background .content .controllers .volume{
@@ -202,8 +202,8 @@ input[type="range"]::-webkit-slider-thumb {
 
 input[type="range"]::-webkit-slider-thumb{
 	-webkit-appearance: none;
-	height: 0.938rem;
-	width: 0.938rem;
+	height: 1.938rem;
+	width: 1.938rem;
 	background: #FFF;
 	border-radius: 50%;
 	cursor: pointer;
