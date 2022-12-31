@@ -127,7 +127,7 @@ body
 }
 
 .background .content .controllers {
-    top: 80vh;
+    top: 81vh;
     left: 35vw;
     width: 200%;
     display: flex;
@@ -139,8 +139,8 @@ body
 .background .content .controllers button {
     margin: 0rem 0.2rem;
     border: none;
-    height: 3.125rem;
-    width: 3.125rem;
+    height: 5.125rem;
+    width: 5.125rem;
     border-radius: 50%;	
     display: flex;
     align-items: center;
@@ -153,8 +153,8 @@ body
 }
 
 .background .content .controllers button:hover{
-    height: 4.375rem;
-    width: 4.375rem;
+    height: 6.375rem;
+    width: 6.375rem;
 }
 
 .background .content .controllers i:before{
@@ -165,8 +165,8 @@ body
 .background .content .controllers .volume{
     margin: 0rem 0rem;
     border: none;
-    height: 3.125rem;
-    width: 3.125rem;
+    height: 5.125rem;
+    width: 5.125rem;
     border-radius: 50%;	
     display: flex;
     align-items: center;
@@ -184,8 +184,8 @@ body
 }
 
 .background .content .controllers .volume:hover{
-    height: 4.375rem;
-    width: 4.375rem;
+    height: 6.375rem;
+    width: 6.375rem;
 }
 
 .background .content .controllers .volume #volume_show{
