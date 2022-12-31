@@ -202,8 +202,8 @@ input[type="range"]::-webkit-slider-thumb {
 
 input[type="range"]::-webkit-slider-thumb{
 	-webkit-appearance: none;
-	height: 1.938rem;
-	width: 1.938rem;
+	height: 3.938rem;
+	width: 3.938rem;
 	background: #FFF;
 	border-radius: 50%;
 	cursor: pointer;
