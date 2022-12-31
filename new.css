@@ -127,8 +127,8 @@ body
 }
 
 .background .content .controllers {
-    top: 81vh;
-    left: 35vw;
+    top: 80vh;
+    left: 33vw;
     width: 200%;
     display: flex;
     align-items: center;
