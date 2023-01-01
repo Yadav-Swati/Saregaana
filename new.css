@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
-
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: black;
+  }
+}
   body 
 {
     margin: 0;
