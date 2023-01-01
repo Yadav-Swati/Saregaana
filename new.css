@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
-
+@media only screen and (max-width: 600px){
 
   body 
 {
@@ -236,3 +236,4 @@ input[type="range"]::-webkit-slider-thumb{
     display: block;
 }
 
+}
